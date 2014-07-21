@@ -33,3 +33,49 @@ $$
     \end{array} \right)
 \end{align*}
 $$
+
+Here's a table:
+
+|Name|Date|Count|
+|:-|:-|-:|
+|Peridotite|2003-12-01|6|
+|Anorthosite|2001-07-14|8|
+|Andesite|1986-08-24|17|
+|Dunite|2003-09-11|2|
+|===
+|Sum||33|
+
+Here's a definition list:
+
+BC
+	: Biochemistry
+HAEM
+	: Haematology
+RAD
+	: Radiology
+	: MRI
+ONC
+	: Oncology
+	: Histopathology
+
+Here's an unordered list:
+
+	* COBOL
+	* FORTRAN
+	* C
+	* BASIC
+	* SMALLTALK
+	* HASKELL
+	* EIFFEL
+	* F#
+
+---
+
+Example Worklight code comment:
+
+~~~
+    WL.Logger.error("token");
+    WL.Logger.error(encryptedToken);
+~~~
+	
+	
