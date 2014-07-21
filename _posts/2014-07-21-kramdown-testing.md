@@ -1,9 +1,14 @@
 ---
 layout: post
-category : testing
-tagline: "Kramdown testing post"
-tags : [testing, LaTex, Kramdown]
+category: testing
+tagline: Kramdown testing post
+tags: 
+  - testing
+  - LaTex
+  - Kramdown
+published: true
 ---
+
 {% include JB/setup %}
 
 This post tests some features of Kramdown.
@@ -28,5 +33,3 @@ $$
     \end{array} \right)
 \end{align*}
 $$
-
-
