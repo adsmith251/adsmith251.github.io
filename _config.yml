@@ -2,6 +2,9 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
 
+# Added since Maruku is deprecated
+markdown: kramdown
+
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
@@ -25,7 +28,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://adsmith251.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
