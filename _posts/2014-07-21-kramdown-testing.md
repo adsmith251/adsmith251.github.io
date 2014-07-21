@@ -51,11 +51,14 @@ Here's a definition list:
 
 BC
 : Biochemistry
+
 HAEM
 : Haematology
+
 RAD
 : Radiology
 : MRI
+
 ONC
 : Oncology
 : Histopathology
@@ -63,14 +66,14 @@ ONC
 	
 Here's an unordered list:
 
-* COBOL
-* FORTRAN
-* C
-* BASIC
-* SMALLTALK
-* HASKELL
-* EIFFEL
-* F#
+ * COBOL
+ * FORTRAN
+ * C
+ * BASIC
+ * SMALLTALK
+ * HASKELL
+ * EIFFEL
+ * F#
 
 -------------------
 
