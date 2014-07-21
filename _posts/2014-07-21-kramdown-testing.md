@@ -89,7 +89,7 @@ WL.Logger.error(encryptedToken);
 
 -------------------
 
-Including and image is easy:
+Including an image is easy *once you work out where to put it*!
 
 ![Worklight](/images/icon.png)  
 
