@@ -34,6 +34,7 @@ $$
 \end{align*}
 $$
 
+-------------------
 
 Here's a table:
 
@@ -46,6 +47,7 @@ Here's a table:
 |===
 |Sum||33|
 
+-------------------
 
 Here's a definition list:
 
@@ -63,7 +65,8 @@ ONC
 : Oncology
 : Histopathology
 
-	
+-------------------
+
 Here's an unordered list:
 
  * COBOL
@@ -76,7 +79,6 @@ Here's an unordered list:
  * F#
 
 -------------------
-
 
 Example Worklight code comment:
 
