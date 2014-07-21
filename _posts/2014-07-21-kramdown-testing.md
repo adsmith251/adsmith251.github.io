@@ -91,6 +91,6 @@ WL.Logger.error(encryptedToken);
 
 Including and image is easy:
 
-![Worklight](images/icon.png)
+![Worklight](/_posts/images/icon.png)  
 
 -------------------
