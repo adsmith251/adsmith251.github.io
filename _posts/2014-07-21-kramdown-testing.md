@@ -34,6 +34,7 @@ $$
 \end{align*}
 $$
 
+
 Here's a table:
 
 |Name|Date|Count|
@@ -45,37 +46,40 @@ Here's a table:
 |===
 |Sum||33|
 
+
 Here's a definition list:
 
 BC
-	: Biochemistry
+: Biochemistry
 HAEM
-	: Haematology
+: Haematology
 RAD
-	: Radiology
-	: MRI
+: Radiology
+: MRI
 ONC
-	: Oncology
-	: Histopathology
+: Oncology
+: Histopathology
 
+	
 Here's an unordered list:
 
-	* COBOL
-	* FORTRAN
-	* C
-	* BASIC
-	* SMALLTALK
-	* HASKELL
-	* EIFFEL
-	* F#
+* COBOL
+* FORTRAN
+* C
+* BASIC
+* SMALLTALK
+* HASKELL
+* EIFFEL
+* F#
 
----
+-------------------
+
 
 Example Worklight code comment:
 
 ~~~
-    WL.Logger.error("token");
-    WL.Logger.error(encryptedToken);
+WL.Logger.error("token");
+WL.Logger.error(encryptedToken);
 ~~~
 	
 	
