@@ -86,5 +86,9 @@ Example Worklight code comment:
 WL.Logger.error("token");
 WL.Logger.error(encryptedToken);
 ~~~
-	
-	
+
+-------------------
+
+Including and image is easy:
+
+![Worklight](/_posts/images/icon.png)
