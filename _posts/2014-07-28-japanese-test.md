@@ -1,6 +1,5 @@
 ﻿---
 layout: post
-published: true
 category: testing
 tagline: testing japanese text
 tags: 
