@@ -1,11 +1,11 @@
 ﻿---
 layout: post
+published: true
 category: testing
 tagline: testing japanese text
 tags: 
   - testing
   - japanese
-published: true
 ---
 
 なかせんどうのまごめじゅく
