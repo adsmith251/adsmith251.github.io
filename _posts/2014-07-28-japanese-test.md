@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 category: testing
-tagline: testing japanese text
+tagline: testing japanese
 tags: 
   - testing
   - japanese
+  
 ---
 
 ## なかせんどうのまごめじゅく
